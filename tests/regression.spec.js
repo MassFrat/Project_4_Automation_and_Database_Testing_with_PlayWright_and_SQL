@@ -2,7 +2,7 @@
 // Project 5 — Automation Testing with Playwright
 // Application: Demoblaze
 // URL: https://www.demoblaze.com
-// Tester: Mass Frat | May 2026
+// Tester: Mass Frat | June 2026
 // Adapted from manual smoke and regression test cases
 // ============================================================
 
