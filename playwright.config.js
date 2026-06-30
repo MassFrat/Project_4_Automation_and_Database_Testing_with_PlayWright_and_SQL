@@ -1,7 +1,7 @@
 / ============================================================
 // Playwright Configuration
 // Project 5 — Demoblaze Automation Testing
-// Tester: Mass Frat | May 2026
+// Tester: Mass Frat | June 2026
 // ============================================================
 
 const { defineConfig } = require('@playwright/test');
