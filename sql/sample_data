@@ -1,0 +1,16 @@
+INSERT INTO categories (name) VALUES ('Phones'), ('Laptops'), ('Monitors');
+
+INSERT INTO products (title, price, category_id) VALUES
+('Samsung Galaxy S6', 360.00, 1),
+('Nexus 6', 650.00, 1),
+('Sony Vaio i5', 790.00, 2),
+('MacBook Pro', 1100.00, 2),
+('Apple Monitor 24', 400.00, 3);
+
+INSERT INTO users (username, email, created_at) VALUES
+('massfrat', 'massfrat@example.com', NOW()),
+('testuser2', 'test2@example.com', NOW() - INTERVAL 10 DAY);
+
+INSERT INTO orders (user_id, total, created_at) VALUES
+(1, 1100.00, NOW()),
+(2, 790.00, NOW() - INTERVAL 5 DAY);
