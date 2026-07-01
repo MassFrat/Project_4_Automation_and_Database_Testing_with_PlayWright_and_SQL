@@ -1,11 +1,3 @@
-/ ============================================================
-// Project 5 — Automation Testing with Playwright
-// Application: Demoblaze
-// URL: https://www.demoblaze.com
-// Tester: Mass Frat | June 2026
-// Adapted from manual smoke and regression test cases
-// ============================================================
-
 const { test, expect } = require('@playwright/test');
 
 // ── TC-AUTO-001: Homepage Loads Successfully ────────────────
