@@ -1,4 +1,4 @@
-# Project 5 — Automation & Database Testing
+# Project 4 — Automation & Database Testing
 ## Playwright UI Automation + SQL Validation | Demoblaze Store
 
 
