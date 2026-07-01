@@ -1,9 +1,3 @@
-/ ============================================================
-// Playwright Configuration
-// Project 5 — Demoblaze Automation Testing
-// Tester: Mass Frat | June 2026
-// ============================================================
-
 const { defineConfig } = require('@playwright/test');
 
 module.exports = defineConfig({
