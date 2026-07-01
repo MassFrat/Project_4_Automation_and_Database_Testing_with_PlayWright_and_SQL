@@ -73,7 +73,3 @@ database modelled on the Demoblaze store structure.
 | SQL-003 | Count of products per category | ✅ Pass |
 | SQL-004 | All orders with customer details | ✅ Pass |
 | SQL-005 | Users registered in the last 30 days | ✅ Pass |
-
-> SQL queries were run against a locally created `demoblaze_db` database
-> on Ubuntu using MySQL. Screenshots of all 5 query results are in the
-> `screenshots/` folder.
